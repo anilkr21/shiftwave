@@ -1,0 +1,22 @@
+.hero-content, h1, h2 {
+    color: #fff;
+}
+
+.hero-content p {
+    color: #fff;
+    font-size: 14px;
+}
+
+
+.hero-content .buttonone {
+    background-color: #E57F1B;
+    padding: 2px 26px;
+    border:solid 2px #E57F1B;
+}
+
+.hero-content .buttontwo {
+    background-color: transparent;
+    padding: 2px 20px;
+    border: solid 2px #fff;
+    color: #fff;
+}
